@@ -38,7 +38,7 @@ The repository is now saved on your laptop.
 
 `git push`
 
-Now you can update the GitHub page and make sure the typo's fixed.
+You can update the GitHub page and make sure the typo's fixed.
 
 
 ## Making suggestions
