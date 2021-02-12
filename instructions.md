@@ -44,6 +44,8 @@ You can update the GitHub page and make sure the typo's fixed.
 ## Making suggestions
 If you see a sentence in a text file "text2" and realize you know a better way to express the idea, yet you are not so sure it is worth changing the whole file, there is a way you can leave your suggestions.
 
+<img src="https://i.ibb.co/DpQKbzY/text2.png">
+
 You can make a separate branch of the "PracticeRange" repository on your laptop, change a part of the text you don't like and upload the new branch to GitHub. The original version of the repository will still be on GitHub, and your colleagues will be able to compare your version with the original one.
 
 1. Let's update the files that we already have on our laptop to be sure we have the latest version of our repository.
