@@ -32,7 +32,7 @@ The repository is now saved on your laptop.
 
 6. Let's commit this file, or, in other words, upload the fixed file to the repository. You must leave a comment explaining what kind of change you commit.
 
-`git commit -m «correct a typo»`
+`git commit -m "correct a typo"`
 
 7. Now that you've made the changes on your laptop, let's upload the updated repository to GitHub.
 
@@ -72,7 +72,7 @@ You can make a separate branch of the "PracticeRange" repository on your laptop,
 
 7. And commit it to the repository. You must leave a comment as well explaining what kind of change you commit.
 
-`git commit -m «correct a typo»`
+`git commit -m "correct a typo"`
 
 8. You've made the changes on your laptop. Now let's upload the new branch to GitHub.
 
