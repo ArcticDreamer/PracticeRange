@@ -80,11 +80,11 @@ You can make a separate branch of the "PracticeRange" repository on your laptop,
 
 Refresh the GitHub page and make sure the new branch has been created. 
 
-<img src="https://i.ibb.co/Jc3c0F8/newbranch.png">
+<img src="https://i.ibb.co/T8npxcb/newbranch.png">
 
 You'll see a GitHub notification suggesting you make a pull request — follow the hints to create a pull request with the comments to your colleagues on why your changes are important.
 
-<img src="https://i.ibb.co/sJ9GDYk/2021-02-12-19-22-06.png">
+<img src="https://i.ibb.co/GJrPTrb/pullrequest.png">
 
 > A couple of git commands that might be handy:
 > - If you want to make sure the command you just ran worked as planned, type `git status` to check.
