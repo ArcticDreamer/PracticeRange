@@ -56,13 +56,13 @@ You can make a separate branch of the "PracticeRange" repository on your laptop,
 
 `cd PracticeRange`
 
-3. Create a new branch called "Practice2". It will be identical with the original repository, and you'll be able to experiment with it's content without any fear of messing things up.
+3. Create a new branch called "mytestbranch". It will be identical with the original repository, and you'll be able to experiment with it's content without any fear of messing things up.
 
-`git branch Practice2`
+`git branch mytestbranch`
 
 4. Switch to the new branch.
 
-`git checkout Practice2`
+`git checkout mytestbranch`
 
 5. Open the "text2" file, correct the sentence you want and switch back to the terminal.
 
@@ -76,10 +76,15 @@ You can make a separate branch of the "PracticeRange" repository on your laptop,
 
 8. You've made the changes on your laptop. Now let's upload the new branch to GitHub.
 
-`git push origin Practice2`
+`git push origin mytestbranch`
 
-Refresh the GitHub page and make sure the new branch has been created. You'll see a GitHub notification suggesting you make a pull request — follow the hints to create a pull request with the comments to your colleagues on why your changes are important.
+Refresh the GitHub page and make sure the new branch has been created. 
 
+<img src="https://i.ibb.co/Jc3c0F8/newbranch.png">
+
+You'll see a GitHub notification suggesting you make a pull request — follow the hints to create a pull request with the comments to your colleagues on why your changes are important.
+
+<img src="https://i.ibb.co/sJ9GDYk/2021-02-12-19-22-06.png">
 
 > A couple of git commands that might be handy:
 > - If you want to make sure the command you just ran worked as planned, type `git status` to check.
