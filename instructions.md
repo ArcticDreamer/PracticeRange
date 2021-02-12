@@ -10,9 +10,13 @@ We are going to practice using the GitHub repository called "PracticeRange". Ins
 
 1. Open the repository "[PracticeRange](https://github.com/ArcticDreamer/PracticeRange)", click the "Code" button, and copy the HTTPS address.
 
+<img src="https://i.ibb.co/716pv53/clone.png">
+
 2. Open the terminal and type the command + the HTTPS address you just copied:
 
 `git clone https://github.com/ArcticDreamer/PracticeRange.git`
+
+<img src="https://i.ibb.co/YyzwwRJ/git-clone.png" width="500" height="300">
 
 The repository is now saved on your laptop.
 
