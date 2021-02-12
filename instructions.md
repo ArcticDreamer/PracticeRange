@@ -10,7 +10,7 @@ We are going to practice using the GitHub repository called "PracticeRange". Ins
 
 1. Open the repository "[PracticeRange](https://github.com/ArcticDreamer/PracticeRange)", click the "Code" button, and copy the HTTPS address.
 
-<img src="https://i.ibb.co/716pv53/clone.png">
+<img src="https://i.ibb.co/n3J7fyD/clone.png">
 
 2. Open the terminal and type the command + the HTTPS address you just copied:
 
