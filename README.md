@@ -15,8 +15,8 @@ Inside there is a text file called "text1" we need to correct. We are going to
 clone this repository to our laptop, correct a typo and upload the repository 
 back to GitHub.
 
-1. Open the repository "[PracticeRange]
-(https://github.com/ArcticDreamer/PracticeRange)", click the "Code" button, and 
+1. Open the repository "[PracticeRange](https://github.com/ArcticDreamer/PracticeRange)", 
+click the "Code" button, and 
 copy the HTTPS address:
 
 <img src="clone.png">
